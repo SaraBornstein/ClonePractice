@@ -5,5 +5,9 @@
 
 # D2
 
-- completed FreeCodeCamp.org Applied Accessiblity and Responsive Design lessons
+- completed FreeCodeCamp.org Applied Accessiblity, Responsive Design, Flexbox, and Grid lessons
 - troubleshooting of HTTP/HTTPS migration (resolving mixed content)
+
+# D3
+
+- completed FreeCodeCamp.org project: [Tribute Page](https://codepen.io/digilou/pen/oyJXmp)

@@ -16,7 +16,11 @@ These will be the general guidelines for this challenge within the Grow with Goo
 The #100DaysofCode Challenge accomplishes this by helping the scholar set a SMART goal.
 
 Specific: Scholars are coding
+
 Measurable: This goal is defined in a concrete amount of time(30 minutes)
+
 Achievable: Everyone in phase 2 has already worked on some projects already
+
 Realistic: Easily achievable given the amount of time that it takes to build these labs/projects
+
 Time-Bound: This is a short term goal of 100 days

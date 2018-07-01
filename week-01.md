@@ -15,4 +15,5 @@
 
 # D4
 
-- built out most of FreeCodeCamp.org project: [Product Page](https://codepen.io/digilou/pen/wXRxab)
+- completed FreeCodeCamp.org project: [Product Page](https://codepen.io/digilou/pen/wXRxab)
+- built out some of FreeCodeCamp.org project: [Technical Docs Page](https://codepen.io/digilou/pen/MXLjNz)

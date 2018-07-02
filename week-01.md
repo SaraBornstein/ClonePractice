@@ -26,3 +26,4 @@
 # D6 2018-07-02
 
 - completed FreeCodeCamp.org project: [Personal Portfolio](https://codepen.io/digilou/pen/xzMJPX)
+- completed FreeCodeCamp Basic JavaScript

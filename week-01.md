@@ -22,3 +22,7 @@
 
 - completed FreeCodeCamp.org project: [Technical Docs Page](https://codepen.io/digilou/pen/MXLjNz)
 - built out most of FreeCodeCamp.org project: [Personal Portfolio](https://codepen.io/digilou/pen/xzMJPX)
+
+# D6 2018-07-02
+
+- completed FreeCodeCamp.org project: [Personal Portfolio](https://codepen.io/digilou/pen/xzMJPX)

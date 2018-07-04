@@ -27,3 +27,8 @@
 
 - completed FreeCodeCamp.org project: [Personal Portfolio](https://codepen.io/digilou/pen/xzMJPX)
 - completed FreeCodeCamp Basic JavaScript and 7 ES6 lessons
+
+# D7 2018-07-03
+
+- completed 7 ES6 lessons
+- watched Wes Bos's ES6: Destructuring module

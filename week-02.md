@@ -2,3 +2,7 @@
 
 - completed 3 ES6 lessons (FreeCodeCamp.org)
 - watched Wes Bos's ES6: Template Literals module
+
+# D9 2018-07-05
+
+- started work on July CodePen Challenge: [Signatures](https://codepen.io/digilou/pen/ZRdpQY)

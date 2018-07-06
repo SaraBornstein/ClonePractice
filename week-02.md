@@ -6,3 +6,7 @@
 # D9 2018-07-05
 
 - started work on July CodePen Challenge: [Signatures](https://codepen.io/digilou/pen/ZRdpQY)
+
+# D10 2018-07-06
+
+- completed CodePen Challenge: [Signatures](https://codepen.io/digilou/pen/ZRdpQY)

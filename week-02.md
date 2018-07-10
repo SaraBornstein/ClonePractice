@@ -16,3 +16,7 @@
 - plotted out completion course on [Google Calendar](https://calendar.google.com/calendar?cid=bW9vb2U2OTUwcjNnOWI3NnE4bmExdmlwdnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for Mobile Web Specialist nanodegree program (ends mid-October)
 - completed FreeCodeCamp.org ES6 module (9 lessons)
 
+# D12 2018-07-09
+
+- completed 10 RegEx lessons on FreeCodeCamp.org
+- practiced automating tasks with Gulp and plugins gulp-sass, autoprefixer, and browser-sync. Udacity lessons toward MWS nanodegree.

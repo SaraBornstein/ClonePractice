@@ -20,3 +20,7 @@
 
 - completed 10 RegEx lessons on FreeCodeCamp.org
 - practiced automating tasks with Gulp and plugins gulp-sass, autoprefixer, and browser-sync. Udacity lessons toward MWS nanodegree.
+
+# D13 2018-07-10
+
+- added ESLint to Gulp tasks; explored other ways to install ESLint

@@ -24,3 +24,4 @@
 # D13 2018-07-10
 
 - added ESLint to Gulp tasks; explored other ways to install ESLint
+- reviewed Project 2 and installed dev node server

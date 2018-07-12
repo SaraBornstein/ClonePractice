@@ -25,3 +25,8 @@
 
 - added ESLint to Gulp tasks; explored other ways to install ESLint
 - reviewed Project 2 and installed dev node server
+
+# D14 2018-07-11
+
+- completed 5 RegEx lessons on FreeCodeCamp.org
+- setup app environment and tooling for phase 2 (Google/Udacity)

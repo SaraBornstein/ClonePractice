@@ -11,3 +11,7 @@
 
 - completed "Dynamic & Offline Capable Web Apps" lessons (MWS nanodegree)
 - explored Yeoman as a framework option for MWS Phase 2 project
+
+# D18 2018-07-15
+
+- image optimization and Gulp tweaks for MWS Phase 2 project

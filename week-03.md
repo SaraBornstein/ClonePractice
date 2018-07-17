@@ -15,3 +15,7 @@
 # D18 2018-07-15
 
 - image optimization and Gulp tweaks for MWS Phase 2 project
+
+# D19 2018-07-16
+
+- manual translation of JavaScript to Ruby

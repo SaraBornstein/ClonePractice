@@ -19,3 +19,7 @@
 # D19 2018-07-16
 
 - manual translation of JavaScript to Ruby
+
+# D20 2018-07-17
+
+- Python refresher for 1 Million Women to Tech: Summer of Code

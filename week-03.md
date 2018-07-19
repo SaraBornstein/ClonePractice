@@ -23,3 +23,7 @@
 # D20 2018-07-17
 
 - Python refresher for 1 Million Women to Tech: Summer of Code
+
+# D21 2018-07-18
+
+- attempt to fix Gulp plugin issues, like eslint and imagemin

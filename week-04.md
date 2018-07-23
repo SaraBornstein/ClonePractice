@@ -9,3 +9,7 @@
 # D24 2018-07-22
 
 - floundering in RoR code (side project)
+
+# D25 2018-07-23
+
+- temporarily sidetracked by VR; tried VR (HTC Vive) for the first time; watched Udacity videos on how it works and how to develop for VR with a game engine (Unity); investigated WebVR spec in dev

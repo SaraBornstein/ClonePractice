@@ -5,3 +5,7 @@
 # D23 2018-07-21
 
 - work toward MWS Project 2: JSON request from different server
+
+# D24 2018-07-22
+
+- floundering in RoR code (side project)

@@ -18,4 +18,4 @@
 # D26 2018-07-24
 
 - CodePen Challenge: [Tables](https://codepen.io/digilou/pen/oMwzdR)
-
+- MWS Project 2: converted XHR to Fetch; started re-watching IDB videos and investigating Webpack again

@@ -14,3 +14,7 @@
 
 - temporarily sidetracked by VR; tried VR (HTC Vive) for the first time; watched Udacity videos on how it works and how to develop for VR with a game engine (Unity); investigated WebVR spec in dev
 - MWS Project 2: figured out I can run 2 servers at once; started converting XHR to Fetch
+
+# D26 2018-07-24
+
+- CodePen Challenge: [Tables](https://codepen.io/digilou/pen/oMwzdR)

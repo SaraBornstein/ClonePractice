@@ -18,3 +18,4 @@
 # D26 2018-07-24
 
 - CodePen Challenge: [Tables](https://codepen.io/digilou/pen/oMwzdR)
+

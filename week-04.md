@@ -25,9 +25,9 @@
 ## D27 2018-07-25
 
 - MWS Project 2: resolving errors from switch to another API, Fetch conversion, and map updates
-- Women Who Code: assigned myself an issue and began research to fix
+- Women Who Code (WWC): assigned myself an issue and began research to fix
 
 ## D28 2018-07-26
 
 - submitted CodePen Challenge: [Tables](https://codepen.io/digilou/pen/oMwzdR)
-- restarted book Going Offline
+- dug through WWC codebase, still trying to find view to edit

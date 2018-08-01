@@ -13,3 +13,7 @@
 
 - back to MWS Project 2: added IDB to cache restaurant data
 - researched use of JS classes with `static`
+
+## D32 2018-07-31
+
+- MWS Project 2: worked through IDB caching errors

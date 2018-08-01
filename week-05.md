@@ -17,3 +17,8 @@
 ## D32 2018-07-31
 
 - MWS Project 2: worked through IDB caching errors
+
+## D33 2018-08-01
+
+- started experimenting with ASP.NET MVC for a work application
+- watched a Vue.js tutorial to explore that as a future JS MVC option

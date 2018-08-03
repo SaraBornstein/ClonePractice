@@ -22,3 +22,8 @@
 
 - started experimenting with ASP.NET MVC for a work application
 - watched a Vue.js tutorial to explore that as a future JS MVC option
+
+## D34 2018-08-02
+
+- HTML/CSS, RWD practice by imitating an existing webpage (CodePen)
+- Ruby/ERB variable review with effects in Slim and Haml (WWC)

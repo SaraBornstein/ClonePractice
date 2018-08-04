@@ -27,3 +27,8 @@
 
 - HTML/CSS, RWD practice by imitating an existing webpage (CodePen)
 - Ruby/ERB variable review with effects in Slim and Haml (WWC)
+
+## D35 2018-08-03
+
+- contribution to WWC front-end (code/content maintenance)
+- MWS Project 2: better grasp of IndexedDB, but still fighting an TypeError

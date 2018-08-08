@@ -13,5 +13,5 @@
 ## D38 2018-08-07
 
 - FreeCodeCamp: 6 Basic Data Structures (JS) lessons
-- Udacity MWS: improvement of performance using Gulp and Sass
+- Udacity MWS: installed npm, gulp, and gulp-plugins
 

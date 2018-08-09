@@ -15,3 +15,6 @@
 - FreeCodeCamp: 6 Basic Data Structures (JS) lessons
 - Udacity MWS: installed npm, gulp, and gulp-plugins
 
+## D39 2018-08-08
+
+- Udacity MWS: resolving gulp plugin errors

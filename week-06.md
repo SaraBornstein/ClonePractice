@@ -18,3 +18,7 @@
 ## D39 2018-08-08
 
 - Udacity MWS: resolving gulp plugin errors
+
+## D40 2018-08-09
+
+- Udacity MWS: no gulp resolutions yet so I deleted the unsuccessful work I did yesterday

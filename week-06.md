@@ -22,3 +22,7 @@
 ## D40 2018-08-09
 
 - Udacity MWS: no gulp resolutions yet so I deleted the unsuccessful work I did yesterday
+
+## D41 2018-08-11
+
+- Udacity MWS: PWA guidance (manifest), some resolved Gulp errors; all 3 base requirements for Project 2 fulfilled

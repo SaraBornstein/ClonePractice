@@ -26,3 +26,7 @@
 ## D41 2018-08-11
 
 - Udacity MWS: PWA guidance (manifest), some resolved Gulp errors; all 3 base requirements for Project 2 fulfilled
+
+## D42 2018-08-12
+
+- Udacity MWS: Project 2 wrapped up and turned in

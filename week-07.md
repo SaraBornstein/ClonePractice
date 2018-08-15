@@ -10,3 +10,7 @@
 - WWC website: created var to be routed to mailchimp notification
 - Udacity MWS: learned more about HTTP
 - Udacity MWS: played with Yeoman react-webpack generator, digging into some PowerShell issues
+
+## D45 2018-08-15
+
+- Udacity MWS: completed HTTP/1 section

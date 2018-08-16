@@ -13,4 +13,4 @@
 
 ## D45 2018-08-15
 
-- Udacity MWS: completed HTTP/1 section
+- CodePen Challenge: [Teach CSS](https://codepen.io/digilou/pen/qyzENQ)

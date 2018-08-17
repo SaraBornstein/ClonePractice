@@ -19,3 +19,7 @@
 
 - srcset and size research and practice
 - Udacity MWS: HTTP with netcat
+
+## D47 2018-08-17
+
+- Udacity MWS: completed HTTP/1 section

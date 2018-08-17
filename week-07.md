@@ -14,3 +14,8 @@
 ## D45 2018-08-15
 
 - CodePen Challenge: [Teach CSS](https://codepen.io/digilou/pen/qyzENQ)
+
+## D46 2018-08-16
+
+- srcset and size research and practice
+- Udacity MWS: HTTP with netcat

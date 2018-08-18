@@ -27,3 +27,4 @@
 ## D48 2018-08-18
 
 - Udacity MWS: updated MWS-RR repo to update code per recommendations of my last code review
+- Fun: refactored FCC Local Weather app to replace AJAX with Fetch - [Local Weather with Fetch](https://codepen.io/digilou/pen/BOByON)

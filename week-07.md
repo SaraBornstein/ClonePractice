@@ -22,4 +22,8 @@
 
 ## D47 2018-08-17
 
-- Udacity MWS: completed HTTP/1 section
+- Udacity MWS: completed HTTP/1 section; started HTTPS
+
+## D48 2018-08-18
+
+- Udacity MWS: updated MWS-RR repo to update code per recommendations of my last code review

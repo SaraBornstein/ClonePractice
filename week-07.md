@@ -29,3 +29,7 @@
 - Udacity MWS: updated MWS-RR repo to update code per recommendations of my last code review
 - Fun: refactored FCC Local Weather app to replace AJAX with Fetch - [Local Weather with Fetch](https://codepen.io/digilou/pen/BOByON)
 - Alaskana Explorer: started refactor of AJAX to Fetch
+
+## D49 2018-08-19
+
+- Alaskana Explorer: more refactoring search function; troubleshooting access to API object

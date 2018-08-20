@@ -33,3 +33,4 @@
 ## D49 2018-08-19
 
 - Alaskana Explorer: more refactoring search function; troubleshooting access to API object
+- Udacity MWS: updated Service Worker, based off of Keith's ["Going Offline"](https://abookapart.com/products/going-offline)

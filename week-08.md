@@ -11,6 +11,6 @@
 - Udacity MWS project: verified app and sw still work; merged sw updates
 - CodePen challenge: started the Teach JavaScript challenge
 
-## 52 2018-08-22
+## D52 2018-08-22
 
 - Udacity MWS project: completed HTTP/2 lessons

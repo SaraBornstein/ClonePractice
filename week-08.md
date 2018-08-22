@@ -9,3 +9,6 @@
 
 - Udacity MWS project: updated readme to replace course instructions with app's purpose and use
 - Udacity MWS project: verified app and sw still work; merged sw updates
+- CodePen challenge: started the Teach JavaScript challenge
+
+## 52 2018-08-22

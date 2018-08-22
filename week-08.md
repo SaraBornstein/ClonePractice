@@ -13,4 +13,4 @@
 
 ## D52 2018-08-22
 
-- Udacity MWS project: completed HTTP/2 lessons
+- Udacity MWS project: completed HTTPS lessons

@@ -12,3 +12,5 @@
 - CodePen challenge: started the Teach JavaScript challenge
 
 ## 52 2018-08-22
+
+- Udacity MWS project: completed HTTP/2 lessons

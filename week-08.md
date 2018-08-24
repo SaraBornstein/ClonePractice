@@ -18,4 +18,4 @@
 ## D53 2018-08-23
 
 - Udacity MWS: completed HTTP/2 lessons
-- Udacity MWS: completed half of Security (CORS) lessons
+- Udacity MWS: completed Security lessons

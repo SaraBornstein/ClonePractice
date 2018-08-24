@@ -19,3 +19,7 @@
 
 - Udacity MWS: completed HTTP/2 lessons
 - Udacity MWS: completed Security lessons
+
+## D54 2018-08-24
+
+- Udacity MWS project: cloned RR3 repo (server); set up form inputs on restaurant page

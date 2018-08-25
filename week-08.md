@@ -23,3 +23,7 @@
 ## D54 2018-08-24
 
 - Udacity MWS project: cloned RR3 repo (server); set up form inputs on restaurant page
+
+## D55 2018-08-25
+
+- CodePen challenge: [Facts about Fetch API](https://codepen.io/digilou/pen/jvEYeN)

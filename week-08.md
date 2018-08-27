@@ -27,3 +27,8 @@
 ## D55 2018-08-25
 
 - CodePen challenge: [Facts about Fetch API](https://codepen.io/digilou/pen/jvEYeN)
+
+## D56 2018-08-27
+
+- Going Offline: adding image cache and fallbacks
+- Udacity MWS: learned about parts of a URI

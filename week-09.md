@@ -12,3 +12,8 @@
 
 - Mentoring: offered a code review for a friend's FCC project
 - Udacity MWS: coded a server to POST a message
+
+## D60 2018-08-31
+
+- Mentoring: offered more code review and troubleshooting for a friend's FCC project
+- Udacity MWS: more Python server coding with methods and send requests

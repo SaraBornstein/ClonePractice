@@ -17,3 +17,7 @@
 
 - Mentoring: offered more code review and troubleshooting for a friend's FCC project
 - Udacity MWS: more Python server coding with methods and send requests
+
+## D61 2018-09-01
+
+- Udacity MWS: completed Lesson 7: The Web from Python; PHEW!

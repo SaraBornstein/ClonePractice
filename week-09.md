@@ -21,3 +21,7 @@
 ## D61 2018-09-01
 
 - Udacity MWS: completed Lesson 7: The Web from Python; PHEW!
+
+## D62 2018-09-02
+
+- Udacity MWS: Lesson 8: deploying an app on Heroku

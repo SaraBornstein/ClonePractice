@@ -25,3 +25,7 @@
 ## D62 2018-09-02
 
 - Udacity MWS: Lesson 8: deploying an app on Heroku
+
+## D63 2018-09-03
+
+- Udacity MWS: completed Lesson 8: HTTP in the Real World

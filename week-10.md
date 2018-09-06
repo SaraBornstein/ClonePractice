@@ -5,3 +5,5 @@
 - Side project: debugging an upload file JS/ERB issue
 
 ## D65 2018-09-05
+
+- Side project: debugging an upload file JS/ERB issue

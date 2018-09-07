@@ -11,3 +11,7 @@
 ## D66 2018-09-06
 
 - Work (additional web dev duties): researched importing WordPress into Orchard CMS
+
+## D67 2018-09-07
+
+- CodePen Challenge: [404 Page](https://codepen.io/digilou/pen/vzWjJo)

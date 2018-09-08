@@ -15,3 +15,7 @@
 ## D67 2018-09-07
 
 - CodePen Challenge: [404 Page](https://codepen.io/digilou/pen/vzWjJo)
+
+## D68 2018-09-08
+
+- CodePen project update: [Local Weather with Fetch](https://codepen.io/digilou/pen/BOByON) now had backgraound images for weather conditions, and more jQuery replaced with vanilla JS

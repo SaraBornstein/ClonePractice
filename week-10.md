@@ -24,3 +24,7 @@
 
 - CodePen project update: [Test Your Reaction Time](https://codepen.io/digilou/pen/eBdzGq) updated to ES6 with additional refactoring and styling
 - CodePen project update: [Celsius2Fahrenheit](https://codepen.io/digilou/pen/LbWJON) got it working after 2 years! Added design.
+
+## D70 2018-09-10
+
+- Personal Project: Redesigned and updated [portfolio on Github](https://digilou.github.io)

@@ -7,3 +7,7 @@
 ## D72 2018-09-12
 
 - Work: [Dynamic Table Totals](https://codepen.io/digilou/pen/ZMoaow)
+
+## D73 2018-09-13
+
+- CodePen project: playing with JavaScript and `filter: invert()` [Night Mode](https://codepen.io/digilou/pen/gxvvwq)

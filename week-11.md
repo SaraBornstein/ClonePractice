@@ -11,3 +11,12 @@
 ## D73 2018-09-13
 
 - CodePen project: playing with JavaScript and `filter: invert()` [Night Mode](https://codepen.io/digilou/pen/gxvvwq)
+
+=====================================================
+Got off track by 1 week due to vacation, and illness
+=====================================================
+
+## D74 2018-09-20
+
+- Reviewed where I left off with MWS P3
+- Experimented with [accessible 5-star rating](https://codepen.io/digilou/pen/GXeJNg) pattern

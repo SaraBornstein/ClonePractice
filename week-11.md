@@ -12,9 +12,11 @@
 
 - CodePen project: playing with JavaScript and `filter: invert()` [Night Mode](https://codepen.io/digilou/pen/gxvvwq)
 
-=====================================================
-Got off track by 1 week due to vacation, and illness
-=====================================================
+
+****
+> Got off track by 1 week due to vacation, and illness
+****
+
 
 ## D74 2018-09-20
 

@@ -22,3 +22,8 @@
 
 - Reviewed where I left off with MWS P3
 - Experimented with [accessible 5-star rating](https://codepen.io/digilou/pen/GXeJNg) pattern
+
+## D75 2018-09-21
+
+- MWS P3: Mentor 1:1 chat
+- MWS P3: experimented with [toggle heart](https://codepen.io/digilou/pen/RYdyZB) for favorite feature

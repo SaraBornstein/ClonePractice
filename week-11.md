@@ -27,3 +27,7 @@
 
 - MWS P3: Mentor 1:1 chat
 - MWS P3: experimented with [toggle heart](https://codepen.io/digilou/pen/RYdyZB) for favorite feature
+
+## D76 2018-09-22
+
+- MWS P3: reviewed JS code; created To-Do list, step by step, of what needs to happen to post reviews and create toggle feature

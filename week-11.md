@@ -31,3 +31,7 @@
 ## D76 2018-09-22
 
 - MWS P3: reviewed JS code; created To-Do list, step by step, of what needs to happen to post reviews and create toggle feature
+
+## D77 2018-09-23
+
+- MWS P3: started working through IDB and other backend code to POST reviews on each restaurant page

@@ -11,3 +11,7 @@
 ## D80 2018-09-26
 
 - finished MWS Lesson 11 (Weapons of Jank Destruction) with more DevTools performance evaluation practice
+
+## D81 2018-09-27
+
+- CSS A11y Task Force: reviewed `@font-face` rules of CSS

@@ -14,4 +14,5 @@
 
 ## D81 2018-09-27
 
+- Read: a good chunk of "Image Performance" by Mat Marquis with advice for `<picture>` and `srcset` and `size`
 - CSS A11y Task Force: reviewed `@font-face` rules of CSS

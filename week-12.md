@@ -20,3 +20,7 @@
 ## D82 2018-09-28
 
 - Work (HTML/CSS): static page dev with grid, writing-mode
+
+## D83 2018-09-30
+
+- MWS P3: worked on review submission form and backend with IDB

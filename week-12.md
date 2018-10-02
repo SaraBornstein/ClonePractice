@@ -24,3 +24,7 @@
 ## D83 2018-09-30
 
 - MWS P3: worked on review submission form and backend with IDB
+
+## D84 2018-10-01
+
+- Work (HTML/CSS): more static page dev adding more styles and fallbacks

@@ -28,3 +28,4 @@
 ## D84 2018-10-01
 
 - Work (HTML/CSS): more static page dev adding more styles and fallbacks
+- CodePen Challenge: [Ghost](https://codepen.io/digilou/full/KGdNvX/)

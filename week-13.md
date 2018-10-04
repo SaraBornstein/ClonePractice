@@ -3,3 +3,7 @@
 ## D85 2018-10-02
 
 - Work (HTML/CSS): published [Exhibits and Events](https://museums.alaska.gov/asm/exhibits-events.html) page; one of my prouder projects
+
+## D86 2018-10-03
+
+- MWS P3: IDB backend, CSS for review form

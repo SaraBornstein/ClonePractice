@@ -11,3 +11,8 @@
 ## D87 2018-10-04
 
 - MWS P3: helped classmate with CSS; completed Lesson 12 JavaScript; completed Lesson 13 Styles and Layout
+
+## D88 2018-10-05
+
+- MWS: completed Lesson 14 Composite and Paint
+- Hacktoberfest: contributed a manifest and icons to [Polaris 2018](https://github.com/tanaypratap/polaris-2018)

@@ -10,4 +10,4 @@
 
 ## D87 2018-10-04
 
-- MWS P3: helped classmate with CSS; completed Lesson 12 JavaScript
+- MWS P3: helped classmate with CSS; completed Lesson 12 JavaScript; completed Lesson 13 Styles and Layout

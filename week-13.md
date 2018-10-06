@@ -16,3 +16,7 @@
 
 - MWS: completed Lesson 14 Composite and Paint
 - Hacktoberfest: contributed a manifest and icons to [Polaris 2018](https://github.com/tanaypratap/polaris-2018)
+ 
+## D89 2018-10-06
+
+- Hacktoberfest: submitted 2 PRs; grabbed a 3rd issue; created my own request for help with MAAS API

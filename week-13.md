@@ -19,4 +19,5 @@
  
 ## D89 2018-10-06
 
-- Hacktoberfest: submitted 2 PRs; grabbed a 3rd issue; created my own request for help with MAAS API
+- Hacktoberfest: submitted 2 PRs; grabbed a 3rd issue
+- MAAS API: created my own request for help during Hacktoberfest; setup the repo for more contribution help

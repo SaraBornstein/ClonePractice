@@ -21,3 +21,7 @@
 
 - Hacktoberfest: submitted 2 PRs; grabbed a 3rd issue
 - MAAS API: created my own request for help during Hacktoberfest; setup the repo for more contribution help
+
+## D90 2018-10-07
+
+- MWS P3: worked through 501 POST error

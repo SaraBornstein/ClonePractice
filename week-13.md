@@ -25,3 +25,6 @@
 ## D90 2018-10-07
 
 - MWS P3: worked through 501 POST error
+
+## D91 2018-10-08
+- CodePen Challenge: started design of mask

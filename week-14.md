@@ -15,3 +15,7 @@
 ## D95 2018-10-12
 
 - MWS P3: combed over post code again, tried to make progress
+
+## D96 2018-10-13
+
+- Hacktoberfest: submitted 3rd pull request (a11y update to add label to an input)

@@ -19,3 +19,8 @@
 ## D96 2018-10-13
 
 - Hacktoberfest: submitted 3rd pull request (a11y update to add label to an input)
+
+## D97 2018-10-14
+
+- Hactoberfest: worked on updates to PR submitted yesterday (merge conflicts) for ifme.org
+- MWS P3: read up on how forms work

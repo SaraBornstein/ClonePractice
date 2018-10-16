@@ -24,3 +24,7 @@
 
 - Hactoberfest: worked on updates to PR submitted yesterday (merge conflicts) for ifme.org
 - MWS P3: read up on how forms work
+
+## D98 2018-10-15
+
+- MWS P3: debugged my form code to focus on just posting what goes into input boxes and gets listed on the same page
